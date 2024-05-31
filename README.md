@@ -1,4 +1,4 @@
-# barobot_guide
+# 바로봇 답변 이쁘게 보기
 Markdown 문서는 간단한 문법으로 작성할 수 있으며, 다양한 용도로 활용됩니다. 이 문서에서는 VSCode(Visual Studio Code)를 설치하고, Markdown Preview Enhanced 확장 기능을 활용하여 Markdown 파일을 예쁘게 보는 방법을 소개합니다.
 
 ## 목차
